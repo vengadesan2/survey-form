@@ -1,0 +1,28 @@
+body{
+    margin-left: 5em !important;
+    margin-left: 5em !important;
+    margin-top: 1em !important;
+    padding: 0 !important;
+}
+td{
+    text-align: center !important;
+}
+th{
+    text-align:center !important;
+}
+table{
+    border: none;
+}
+#Last{
+    margin-top: 0.5em !important;
+}
+
+.cont{
+    font-weight:bold;
+}
+#inputEmail{
+    width: 60vw !important;
+} 
+.name{
+    width: 20 vw !important;
+}
